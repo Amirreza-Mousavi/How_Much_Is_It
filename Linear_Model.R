@@ -1,5 +1,4 @@
 ###Initialization
-library(e1071)
 library(MASS)
 library(dplyr)
 library(ggplot2)
